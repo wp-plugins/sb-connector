@@ -3,7 +3,7 @@ Contributors: mikejudd, johnrazmus
 Tags: speedblogging, speed blogging, smartmember, speedblogging connector
 Requires at least: 3.6
 Tested up to: 4.2
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPL v2
 
 Connect your blog with SpeedBlogging system for faster way to blog
@@ -37,6 +37,10 @@ This plugin will enable your blog to connect with your account at SpeedBlogging 
 2. Plugin Interface
  
 == Changelog ==
+
+= 1.0.4 =
+* Various bug fix
+* Added edit post function
 
 = 1.0.3 =
 * Rewrote framework to be more simplier

@@ -3,7 +3,7 @@
  * Plugin Name: SpeedBlogging Connector
  * Description: SpeedBlogging Connector is a plugin that connects your blog with SpeedBlogging system and it enables
  * you to publish your blog post fast
- * Version: 1.0.3
+ * Version: 1.0.4
  * Author: Internet Marketing Bar
  * Author URI: http://internetmarketingbar.com
  *
