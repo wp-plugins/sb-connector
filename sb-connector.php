@@ -52,7 +52,7 @@ function sb_connector_page() {
    
     ?>
         <div class="wrap smart_only_area">
-	<h1 class="page-header">SB Connector <small>version 1.0.3</small></h1>
+	<h1 class="page-header">SB Connector <small>version 1.0.4</small></h1>
 	
 	<div class="container-fluid">
         <div class="row">
